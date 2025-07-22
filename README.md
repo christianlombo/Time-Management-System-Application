@@ -1,14 +1,10 @@
 # Time-Management-System-Application
 
-__Timesheet Management System__
-This project was a group assignment which were we received consistent feedback from our lecturer
-For the final part of the OPSC7311 we were tasked with first fixing our Timesheet Management System application based off the feedback we got from the lecturer. 
-For this part we also have incorporated new features into the application such as a graph, two of our own features as well as integrating a database with the application.
-
 __Link to the Video__
 - https://youtu.be/QudXFyXC2FY
 
 __Group Member__
+- Christian Lombo (chirstianlombo27@gmail.com)
 - Ratjatji Malatji (ratjatjimalatji@gmail.com)
 
 __Technology__
@@ -21,7 +17,7 @@ __Compatibility__
 - Application will run on Android devices running on Android version 7.0 (Nougat) and above to the latest android version (Only)
 
 __Installation__
-1. Clone the repository from GitHub: `git clone  https://github.com/VCSTDN/opsc7311-poe-ST10080189.git`
+1. Clone the repository from GitHub
 2. Open the project in Android Studio.
 3. Build and run the project on a physical device running Android 7.0 (Nougat) or above.
 
