@@ -4,7 +4,7 @@ __Link to the Video__
 - https://youtu.be/QudXFyXC2FY
 
 __Group Member__
-- Christian Lombo (chirstianlombo27@gmail.com)
+- Christian Lombo (christianlombo27@gmail.com)
 - Ratjatji Malatji (ratjatjimalatji@gmail.com)
 
 __Technology__
